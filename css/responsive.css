@@ -41,14 +41,18 @@ File Name: responsive.css
         margin-right: 0;
     }
     .creative h1 {
-        font-size: 56px;
-        line-height: 70px;
+        font-size: 40px;
+        line-height: 50px;
     }
     .creative p {
+        font-size: 16px; /* Scale down paragraph size */
+        line-height: 24px;
         padding: 5px 0 15px 0;
     }
     .creative .read_more {
-        max-width: 142px;
+        font-size: 14px;
+        max-width: 185px;
+        margin-bottom: 30px;
         margin-right: 0;
     }
     .titlepage h2 {
