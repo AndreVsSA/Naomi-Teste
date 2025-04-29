@@ -49,6 +49,12 @@ File Name: responsive.css
         line-height: 24px;
         padding: 5px 0 15px 0;
     }
+    .creative li {
+        font-size: 16px; /* Scale down paragraph size */
+        line-height: 24px;
+        padding: 5px 0 15px 0;
+    }
+    
     .creative .read_more {
         font-size: 14px;
         max-width: 185px;
@@ -280,6 +286,11 @@ File Name: responsive.css
     }
 
     .creative p {
+        margin: 15px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .creative li {
         margin: 15px;
         font-size: 14px;
         line-height: 20px;
